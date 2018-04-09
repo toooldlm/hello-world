@@ -1,7 +1,5 @@
 # hello-world
-helloworld
-
-Hi humans!
+Hi guys!
 
 Toooldlm here, I like coding. 
 
